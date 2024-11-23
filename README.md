@@ -1,4 +1,6 @@
-# LVMAE - Pytorch (wip)
+<img src="./lvmae.png" width="400px"></img>
+
+## LVMAE - Pytorch (wip)
 
 Implementation of the proposed LVMAE, from the paper, [Extending Video Masked Autoencoders to 128 frames](https://arxiv.org/abs/2411.13683), in Pytorch
 
